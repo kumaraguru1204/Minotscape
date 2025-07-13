@@ -6,7 +6,7 @@
 
 **Minotscape** is a 2D adventure-platformer game built using the **Unity Engine**, centered around **Minot**, a courageous bull trapped by a rival chef's spell. Players must guide Minot through puzzle-filled levels to break free from the magical trap.
 
-> ⚠️ **Note:** This game is currently under development and not fully complete.
+> ⚠️ **Note:** This game is not completely developed. Anyone can develop this game from where i have left. It can potentially be a good indie game.
 
 ---
 
